@@ -1,0 +1,41 @@
+﻿@model IEnumerable<WebApplication1.Models.SACH>
+
+@{
+	ViewBag.Title = "SPtheoNXB";
+	Layout = "~/Views/Shared/_LayoutUser.cshtml";
+}
+
+<h3 style="text-align:center;color:lightyellow"> Sản Phẩm Theo Nhà Xuất Bản </h3>
+
+@foreach (var sach in Model)
+{
+	<div class="templatemo_product_box">
+		<div>
+			<a href="@Url.Action("Details", "BookStore", new { id = sach.Masach })"> </a>
+				<img alt="@sach.Tensach" src="~/img/@sach.Hinhminhhoa" width="180" />
+				</div>
+		<div>
+					<br />
+					<h4 style="text-align:center">
+						@sach.Tensach
+					</h4>
+				</div>
+				<div class="ratings">
+					<p class="pull-right"> 15 reviews</p>
+					<p>
+						<span class="glyphicon glyphicon-star"></span>
+						<span class="glyphicon glyphicon-star"></span>
+						<span class="glyphicon glyphicon-star"></span>
+						<span class="glyphicon glyphicon-star"></span>
+						<span class="glyphicon glyphicon-star"></span>
+					</p>
+				</div>
+			
+		</div>
+}
+	
+
+
+
+
+

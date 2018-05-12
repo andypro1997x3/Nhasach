@@ -1,0 +1,297 @@
+D:\NTTM\phần mềm\thuc hanh\WebApplication1\WebApplication1\bin\ApplicationInsights.config
+D:\NTTM\phần mềm\thuc hanh\WebApplication1\WebApplication1\bin\WebApplication1.dll.config
+D:\NTTM\phần mềm\thuc hanh\WebApplication1\WebApplication1\bin\WebApplication1.dll
+D:\NTTM\phần mềm\thuc hanh\WebApplication1\WebApplication1\bin\WebApplication1.pdb
+D:\NTTM\phần mềm\thuc hanh\WebApplication1\WebApplication1\bin\roslyn\csc.exe
+D:\NTTM\phần mềm\thuc hanh\WebApplication1\WebApplication1\bin\roslyn\csc.exe.config
+D:\NTTM\phần mềm\thuc hanh\WebApplication1\WebApplication1\bin\roslyn\csc.rsp
+D:\NTTM\phần mềm\thuc hanh\WebApplication1\WebApplication1\bin\roslyn\csi.exe
+D:\NTTM\phần mềm\thuc hanh\WebApplication1\WebApplication1\bin\roslyn\csi.exe.config
+D:\NTTM\phần mềm\thuc hanh\WebApplication1\WebApplication1\bin\roslyn\csi.rsp
+D:\NTTM\phần mềm\thuc hanh\WebApplication1\WebApplication1\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\NTTM\phần mềm\thuc hanh\WebApplication1\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\NTTM\phần mềm\thuc hanh\WebApplication1\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\NTTM\phần mềm\thuc hanh\WebApplication1\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\NTTM\phần mềm\thuc hanh\WebApplication1\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\NTTM\phần mềm\thuc hanh\WebApplication1\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\NTTM\phần mềm\thuc hanh\WebApplication1\WebApplication1\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\NTTM\phần mềm\thuc hanh\WebApplication1\WebApplication1\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\NTTM\phần mềm\thuc hanh\WebApplication1\WebApplication1\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\NTTM\phần mềm\thuc hanh\WebApplication1\WebApplication1\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\NTTM\phần mềm\thuc hanh\WebApplication1\WebApplication1\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\NTTM\phần mềm\thuc hanh\WebApplication1\WebApplication1\bin\roslyn\System.AppContext.dll
+D:\NTTM\phần mềm\thuc hanh\WebApplication1\WebApplication1\bin\roslyn\System.Collections.Immutable.dll
+D:\NTTM\phần mềm\thuc hanh\WebApplication1\WebApplication1\bin\roslyn\System.Console.dll
+D:\NTTM\phần mềm\thuc hanh\WebApplication1\WebApplication1\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\NTTM\phần mềm\thuc hanh\WebApplication1\WebApplication1\bin\roslyn\System.Diagnostics.Process.dll
+D:\NTTM\phần mềm\thuc hanh\WebApplication1\WebApplication1\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\NTTM\phần mềm\thuc hanh\WebApplication1\WebApplication1\bin\roslyn\System.IO.Compression.dll
+D:\NTTM\phần mềm\thuc hanh\WebApplication1\WebApplication1\bin\roslyn\System.IO.FileSystem.dll
+D:\NTTM\phần mềm\thuc hanh\WebApplication1\WebApplication1\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+D:\NTTM\phần mềm\thuc hanh\WebApplication1\WebApplication1\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\NTTM\phần mềm\thuc hanh\WebApplication1\WebApplication1\bin\roslyn\System.IO.Pipes.dll
+D:\NTTM\phần mềm\thuc hanh\WebApplication1\WebApplication1\bin\roslyn\System.Reflection.Metadata.dll
+D:\NTTM\phần mềm\thuc hanh\WebApplication1\WebApplication1\bin\roslyn\System.Security.AccessControl.dll
+D:\NTTM\phần mềm\thuc hanh\WebApplication1\WebApplication1\bin\roslyn\System.Security.Claims.dll
+D:\NTTM\phần mềm\thuc hanh\WebApplication1\WebApplication1\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\NTTM\phần mềm\thuc hanh\WebApplication1\WebApplication1\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\NTTM\phần mềm\thuc hanh\WebApplication1\WebApplication1\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\NTTM\phần mềm\thuc hanh\WebApplication1\WebApplication1\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\NTTM\phần mềm\thuc hanh\WebApplication1\WebApplication1\bin\roslyn\System.Security.Principal.Windows.dll
+D:\NTTM\phần mềm\thuc hanh\WebApplication1\WebApplication1\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\NTTM\phần mềm\thuc hanh\WebApplication1\WebApplication1\bin\roslyn\System.Threading.Thread.dll
+D:\NTTM\phần mềm\thuc hanh\WebApplication1\WebApplication1\bin\roslyn\System.ValueTuple.dll
+D:\NTTM\phần mềm\thuc hanh\WebApplication1\WebApplication1\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\NTTM\phần mềm\thuc hanh\WebApplication1\WebApplication1\bin\roslyn\System.Xml.XmlDocument.dll
+D:\NTTM\phần mềm\thuc hanh\WebApplication1\WebApplication1\bin\roslyn\System.Xml.XPath.dll
+D:\NTTM\phần mềm\thuc hanh\WebApplication1\WebApplication1\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\NTTM\phần mềm\thuc hanh\WebApplication1\WebApplication1\bin\roslyn\vbc.exe
+D:\NTTM\phần mềm\thuc hanh\WebApplication1\WebApplication1\bin\roslyn\vbc.exe.config
+D:\NTTM\phần mềm\thuc hanh\WebApplication1\WebApplication1\bin\roslyn\vbc.rsp
+D:\NTTM\phần mềm\thuc hanh\WebApplication1\WebApplication1\bin\roslyn\VBCSCompiler.exe
+D:\NTTM\phần mềm\thuc hanh\WebApplication1\WebApplication1\bin\roslyn\VBCSCompiler.exe.config
+D:\NTTM\phần mềm\thuc hanh\WebApplication1\WebApplication1\bin\Antlr3.Runtime.dll
+D:\NTTM\phần mềm\thuc hanh\WebApplication1\WebApplication1\bin\Microsoft.AI.Agent.Intercept.dll
+D:\NTTM\phần mềm\thuc hanh\WebApplication1\WebApplication1\bin\Microsoft.AI.DependencyCollector.dll
+D:\NTTM\phần mềm\thuc hanh\WebApplication1\WebApplication1\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\NTTM\phần mềm\thuc hanh\WebApplication1\WebApplication1\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\NTTM\phần mềm\thuc hanh\WebApplication1\WebApplication1\bin\Microsoft.AI.Web.dll
+D:\NTTM\phần mềm\thuc hanh\WebApplication1\WebApplication1\bin\Microsoft.AI.WindowsServer.dll
+D:\NTTM\phần mềm\thuc hanh\WebApplication1\WebApplication1\bin\Microsoft.ApplicationInsights.dll
+D:\NTTM\phần mềm\thuc hanh\WebApplication1\WebApplication1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\NTTM\phần mềm\thuc hanh\WebApplication1\WebApplication1\bin\Microsoft.Web.Infrastructure.dll
+D:\NTTM\phần mềm\thuc hanh\WebApplication1\WebApplication1\bin\Newtonsoft.Json.dll
+D:\NTTM\phần mềm\thuc hanh\WebApplication1\WebApplication1\bin\System.Web.Helpers.dll
+D:\NTTM\phần mềm\thuc hanh\WebApplication1\WebApplication1\bin\System.Web.Mvc.dll
+D:\NTTM\phần mềm\thuc hanh\WebApplication1\WebApplication1\bin\System.Web.Optimization.dll
+D:\NTTM\phần mềm\thuc hanh\WebApplication1\WebApplication1\bin\System.Web.Razor.dll
+D:\NTTM\phần mềm\thuc hanh\WebApplication1\WebApplication1\bin\System.Web.WebPages.Deployment.dll
+D:\NTTM\phần mềm\thuc hanh\WebApplication1\WebApplication1\bin\System.Web.WebPages.dll
+D:\NTTM\phần mềm\thuc hanh\WebApplication1\WebApplication1\bin\System.Web.WebPages.Razor.dll
+D:\NTTM\phần mềm\thuc hanh\WebApplication1\WebApplication1\bin\WebGrease.dll
+D:\NTTM\phần mềm\thuc hanh\WebApplication1\WebApplication1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\NTTM\phần mềm\thuc hanh\WebApplication1\WebApplication1\bin\System.Web.Helpers.xml
+D:\NTTM\phần mềm\thuc hanh\WebApplication1\WebApplication1\bin\System.Web.Mvc.xml
+D:\NTTM\phần mềm\thuc hanh\WebApplication1\WebApplication1\bin\System.Web.Optimization.xml
+D:\NTTM\phần mềm\thuc hanh\WebApplication1\WebApplication1\bin\System.Web.Razor.xml
+D:\NTTM\phần mềm\thuc hanh\WebApplication1\WebApplication1\bin\System.Web.WebPages.xml
+D:\NTTM\phần mềm\thuc hanh\WebApplication1\WebApplication1\bin\System.Web.WebPages.Deployment.xml
+D:\NTTM\phần mềm\thuc hanh\WebApplication1\WebApplication1\bin\System.Web.WebPages.Razor.xml
+D:\NTTM\phần mềm\thuc hanh\WebApplication1\WebApplication1\bin\Antlr3.Runtime.pdb
+D:\NTTM\phần mềm\thuc hanh\WebApplication1\WebApplication1\bin\Newtonsoft.Json.xml
+D:\NTTM\phần mềm\thuc hanh\WebApplication1\WebApplication1\bin\Microsoft.ApplicationInsights.xml
+D:\NTTM\phần mềm\thuc hanh\WebApplication1\WebApplication1\bin\Microsoft.AI.DependencyCollector.xml
+D:\NTTM\phần mềm\thuc hanh\WebApplication1\WebApplication1\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\NTTM\phần mềm\thuc hanh\WebApplication1\WebApplication1\bin\Microsoft.AI.WindowsServer.xml
+D:\NTTM\phần mềm\thuc hanh\WebApplication1\WebApplication1\bin\Microsoft.AI.Web.xml
+D:\NTTM\phần mềm\thuc hanh\WebApplication1\WebApplication1\obj\Debug\WebApplication1.csprojResolveAssemblyReference.cache
+D:\NTTM\phần mềm\thuc hanh\WebApplication1\WebApplication1\obj\Debug\WebApplication1.csproj.CoreCompileInputs.cache
+D:\NTTM\phần mềm\thuc hanh\WebApplication1\WebApplication1\obj\Debug\WebApplication1.csproj.CopyComplete
+D:\NTTM\phần mềm\thuc hanh\WebApplication1\WebApplication1\obj\Debug\WebApplication1.dll
+D:\NTTM\phần mềm\thuc hanh\WebApplication1\WebApplication1\obj\Debug\WebApplication1.pdb
+D:\NTTM\phần mềm\thuc hanh\WebApplication1\WebApplication1\bin\EntityFramework.dll
+D:\NTTM\phần mềm\thuc hanh\WebApplication1\WebApplication1\bin\EntityFramework.SqlServer.dll
+D:\NTTM\phần mềm\thuc hanh\WebApplication1\WebApplication1\bin\EntityFramework.xml
+D:\NTTM\phần mềm\thuc hanh\WebApplication1\WebApplication1\bin\EntityFramework.SqlServer.xml
+D:\NTTM\phần mềm\thuc hanh\WebApplication1\WebApplication1\bin\PagedList.dll
+D:\NTTM\phần mềm\thuc hanh\WebApplication1\WebApplication1\bin\PagedList.Mvc.dll
+D:\NTTM\phần mềm\thuc hanh\WebApplication1\WebApplication1\bin\PagedList.xml
+D:\NTTM\phần mềm\thuc hanh\WebApplication1\WebApplication1\bin\PagedList.Mvc.xml
+C:\Users\Mi Mi\Desktop\WebApplication1\WebApplication1\bin\ApplicationInsights.config
+C:\Users\Mi Mi\Desktop\WebApplication1\WebApplication1\bin\WebApplication1.dll.config
+C:\Users\Mi Mi\Desktop\WebApplication1\WebApplication1\bin\WebApplication1.dll
+C:\Users\Mi Mi\Desktop\WebApplication1\WebApplication1\bin\WebApplication1.pdb
+C:\Users\Mi Mi\Desktop\WebApplication1\WebApplication1\bin\roslyn\csc.exe
+C:\Users\Mi Mi\Desktop\WebApplication1\WebApplication1\bin\roslyn\csc.exe.config
+C:\Users\Mi Mi\Desktop\WebApplication1\WebApplication1\bin\roslyn\csc.rsp
+C:\Users\Mi Mi\Desktop\WebApplication1\WebApplication1\bin\roslyn\csi.exe
+C:\Users\Mi Mi\Desktop\WebApplication1\WebApplication1\bin\roslyn\csi.exe.config
+C:\Users\Mi Mi\Desktop\WebApplication1\WebApplication1\bin\roslyn\csi.rsp
+C:\Users\Mi Mi\Desktop\WebApplication1\WebApplication1\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Mi Mi\Desktop\WebApplication1\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Mi Mi\Desktop\WebApplication1\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Mi Mi\Desktop\WebApplication1\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Mi Mi\Desktop\WebApplication1\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Mi Mi\Desktop\WebApplication1\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Mi Mi\Desktop\WebApplication1\WebApplication1\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Mi Mi\Desktop\WebApplication1\WebApplication1\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Mi Mi\Desktop\WebApplication1\WebApplication1\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Mi Mi\Desktop\WebApplication1\WebApplication1\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Mi Mi\Desktop\WebApplication1\WebApplication1\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Mi Mi\Desktop\WebApplication1\WebApplication1\bin\roslyn\System.AppContext.dll
+C:\Users\Mi Mi\Desktop\WebApplication1\WebApplication1\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Mi Mi\Desktop\WebApplication1\WebApplication1\bin\roslyn\System.Console.dll
+C:\Users\Mi Mi\Desktop\WebApplication1\WebApplication1\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Mi Mi\Desktop\WebApplication1\WebApplication1\bin\roslyn\System.Diagnostics.Process.dll
+C:\Users\Mi Mi\Desktop\WebApplication1\WebApplication1\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Mi Mi\Desktop\WebApplication1\WebApplication1\bin\roslyn\System.IO.Compression.dll
+C:\Users\Mi Mi\Desktop\WebApplication1\WebApplication1\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Mi Mi\Desktop\WebApplication1\WebApplication1\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+C:\Users\Mi Mi\Desktop\WebApplication1\WebApplication1\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Mi Mi\Desktop\WebApplication1\WebApplication1\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Mi Mi\Desktop\WebApplication1\WebApplication1\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Mi Mi\Desktop\WebApplication1\WebApplication1\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Mi Mi\Desktop\WebApplication1\WebApplication1\bin\roslyn\System.Security.Claims.dll
+C:\Users\Mi Mi\Desktop\WebApplication1\WebApplication1\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Mi Mi\Desktop\WebApplication1\WebApplication1\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Mi Mi\Desktop\WebApplication1\WebApplication1\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Mi Mi\Desktop\WebApplication1\WebApplication1\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Mi Mi\Desktop\WebApplication1\WebApplication1\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Mi Mi\Desktop\WebApplication1\WebApplication1\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Mi Mi\Desktop\WebApplication1\WebApplication1\bin\roslyn\System.Threading.Thread.dll
+C:\Users\Mi Mi\Desktop\WebApplication1\WebApplication1\bin\roslyn\System.ValueTuple.dll
+C:\Users\Mi Mi\Desktop\WebApplication1\WebApplication1\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Mi Mi\Desktop\WebApplication1\WebApplication1\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Mi Mi\Desktop\WebApplication1\WebApplication1\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Mi Mi\Desktop\WebApplication1\WebApplication1\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Mi Mi\Desktop\WebApplication1\WebApplication1\bin\roslyn\vbc.exe
+C:\Users\Mi Mi\Desktop\WebApplication1\WebApplication1\bin\roslyn\vbc.exe.config
+C:\Users\Mi Mi\Desktop\WebApplication1\WebApplication1\bin\roslyn\vbc.rsp
+C:\Users\Mi Mi\Desktop\WebApplication1\WebApplication1\bin\roslyn\VBCSCompiler.exe
+C:\Users\Mi Mi\Desktop\WebApplication1\WebApplication1\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Mi Mi\Desktop\WebApplication1\WebApplication1\bin\Antlr3.Runtime.dll
+C:\Users\Mi Mi\Desktop\WebApplication1\WebApplication1\bin\EntityFramework.dll
+C:\Users\Mi Mi\Desktop\WebApplication1\WebApplication1\bin\EntityFramework.SqlServer.dll
+C:\Users\Mi Mi\Desktop\WebApplication1\WebApplication1\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Mi Mi\Desktop\WebApplication1\WebApplication1\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Mi Mi\Desktop\WebApplication1\WebApplication1\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Mi Mi\Desktop\WebApplication1\WebApplication1\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Mi Mi\Desktop\WebApplication1\WebApplication1\bin\Microsoft.AI.Web.dll
+C:\Users\Mi Mi\Desktop\WebApplication1\WebApplication1\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Mi Mi\Desktop\WebApplication1\WebApplication1\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Mi Mi\Desktop\WebApplication1\WebApplication1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Mi Mi\Desktop\WebApplication1\WebApplication1\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Mi Mi\Desktop\WebApplication1\WebApplication1\bin\Newtonsoft.Json.dll
+C:\Users\Mi Mi\Desktop\WebApplication1\WebApplication1\bin\PagedList.dll
+C:\Users\Mi Mi\Desktop\WebApplication1\WebApplication1\bin\PagedList.Mvc.dll
+C:\Users\Mi Mi\Desktop\WebApplication1\WebApplication1\bin\System.Web.Helpers.dll
+C:\Users\Mi Mi\Desktop\WebApplication1\WebApplication1\bin\System.Web.Mvc.dll
+C:\Users\Mi Mi\Desktop\WebApplication1\WebApplication1\bin\System.Web.Optimization.dll
+C:\Users\Mi Mi\Desktop\WebApplication1\WebApplication1\bin\System.Web.Razor.dll
+C:\Users\Mi Mi\Desktop\WebApplication1\WebApplication1\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Mi Mi\Desktop\WebApplication1\WebApplication1\bin\System.Web.WebPages.dll
+C:\Users\Mi Mi\Desktop\WebApplication1\WebApplication1\bin\System.Web.WebPages.Razor.dll
+C:\Users\Mi Mi\Desktop\WebApplication1\WebApplication1\bin\WebGrease.dll
+C:\Users\Mi Mi\Desktop\WebApplication1\WebApplication1\bin\EntityFramework.xml
+C:\Users\Mi Mi\Desktop\WebApplication1\WebApplication1\bin\EntityFramework.SqlServer.xml
+C:\Users\Mi Mi\Desktop\WebApplication1\WebApplication1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Mi Mi\Desktop\WebApplication1\WebApplication1\bin\PagedList.xml
+C:\Users\Mi Mi\Desktop\WebApplication1\WebApplication1\bin\PagedList.Mvc.xml
+C:\Users\Mi Mi\Desktop\WebApplication1\WebApplication1\bin\System.Web.Helpers.xml
+C:\Users\Mi Mi\Desktop\WebApplication1\WebApplication1\bin\System.Web.Mvc.xml
+C:\Users\Mi Mi\Desktop\WebApplication1\WebApplication1\bin\System.Web.Optimization.xml
+C:\Users\Mi Mi\Desktop\WebApplication1\WebApplication1\bin\System.Web.Razor.xml
+C:\Users\Mi Mi\Desktop\WebApplication1\WebApplication1\bin\System.Web.WebPages.xml
+C:\Users\Mi Mi\Desktop\WebApplication1\WebApplication1\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Mi Mi\Desktop\WebApplication1\WebApplication1\bin\System.Web.WebPages.Razor.xml
+C:\Users\Mi Mi\Desktop\WebApplication1\WebApplication1\bin\Antlr3.Runtime.pdb
+C:\Users\Mi Mi\Desktop\WebApplication1\WebApplication1\bin\Newtonsoft.Json.xml
+C:\Users\Mi Mi\Desktop\WebApplication1\WebApplication1\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Mi Mi\Desktop\WebApplication1\WebApplication1\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Mi Mi\Desktop\WebApplication1\WebApplication1\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Mi Mi\Desktop\WebApplication1\WebApplication1\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Mi Mi\Desktop\WebApplication1\WebApplication1\bin\Microsoft.AI.Web.xml
+C:\Users\Mi Mi\Desktop\WebApplication1\WebApplication1\obj\Debug\WebApplication1.csprojResolveAssemblyReference.cache
+C:\Users\Mi Mi\Desktop\WebApplication1\WebApplication1\obj\Debug\WebApplication1.csproj.CoreCompileInputs.cache
+C:\Users\Mi Mi\Desktop\WebApplication1\WebApplication1\obj\Debug\WebApplication1.csproj.CopyComplete
+C:\Users\Mi Mi\Desktop\WebApplication1\WebApplication1\obj\Debug\WebApplication1.dll
+C:\Users\Mi Mi\Desktop\WebApplication1\WebApplication1\obj\Debug\WebApplication1.pdb
+C:\Users\KHONG MINH\Desktop\WebApplication1\WebApplication1\bin\ApplicationInsights.config
+C:\Users\KHONG MINH\Desktop\WebApplication1\WebApplication1\bin\WebApplication1.dll.config
+C:\Users\KHONG MINH\Desktop\WebApplication1\WebApplication1\bin\WebApplication1.dll
+C:\Users\KHONG MINH\Desktop\WebApplication1\WebApplication1\bin\WebApplication1.pdb
+C:\Users\KHONG MINH\Desktop\WebApplication1\WebApplication1\bin\roslyn\csc.exe
+C:\Users\KHONG MINH\Desktop\WebApplication1\WebApplication1\bin\roslyn\csc.exe.config
+C:\Users\KHONG MINH\Desktop\WebApplication1\WebApplication1\bin\roslyn\csc.rsp
+C:\Users\KHONG MINH\Desktop\WebApplication1\WebApplication1\bin\roslyn\csi.exe
+C:\Users\KHONG MINH\Desktop\WebApplication1\WebApplication1\bin\roslyn\csi.exe.config
+C:\Users\KHONG MINH\Desktop\WebApplication1\WebApplication1\bin\roslyn\csi.rsp
+C:\Users\KHONG MINH\Desktop\WebApplication1\WebApplication1\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\KHONG MINH\Desktop\WebApplication1\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\KHONG MINH\Desktop\WebApplication1\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\KHONG MINH\Desktop\WebApplication1\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\KHONG MINH\Desktop\WebApplication1\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\KHONG MINH\Desktop\WebApplication1\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\KHONG MINH\Desktop\WebApplication1\WebApplication1\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\KHONG MINH\Desktop\WebApplication1\WebApplication1\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\KHONG MINH\Desktop\WebApplication1\WebApplication1\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\KHONG MINH\Desktop\WebApplication1\WebApplication1\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\KHONG MINH\Desktop\WebApplication1\WebApplication1\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\KHONG MINH\Desktop\WebApplication1\WebApplication1\bin\roslyn\System.AppContext.dll
+C:\Users\KHONG MINH\Desktop\WebApplication1\WebApplication1\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\KHONG MINH\Desktop\WebApplication1\WebApplication1\bin\roslyn\System.Console.dll
+C:\Users\KHONG MINH\Desktop\WebApplication1\WebApplication1\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\KHONG MINH\Desktop\WebApplication1\WebApplication1\bin\roslyn\System.Diagnostics.Process.dll
+C:\Users\KHONG MINH\Desktop\WebApplication1\WebApplication1\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\KHONG MINH\Desktop\WebApplication1\WebApplication1\bin\roslyn\System.IO.Compression.dll
+C:\Users\KHONG MINH\Desktop\WebApplication1\WebApplication1\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\KHONG MINH\Desktop\WebApplication1\WebApplication1\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+C:\Users\KHONG MINH\Desktop\WebApplication1\WebApplication1\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\KHONG MINH\Desktop\WebApplication1\WebApplication1\bin\roslyn\System.IO.Pipes.dll
+C:\Users\KHONG MINH\Desktop\WebApplication1\WebApplication1\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\KHONG MINH\Desktop\WebApplication1\WebApplication1\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\KHONG MINH\Desktop\WebApplication1\WebApplication1\bin\roslyn\System.Security.Claims.dll
+C:\Users\KHONG MINH\Desktop\WebApplication1\WebApplication1\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\KHONG MINH\Desktop\WebApplication1\WebApplication1\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\KHONG MINH\Desktop\WebApplication1\WebApplication1\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\KHONG MINH\Desktop\WebApplication1\WebApplication1\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\KHONG MINH\Desktop\WebApplication1\WebApplication1\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\KHONG MINH\Desktop\WebApplication1\WebApplication1\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\KHONG MINH\Desktop\WebApplication1\WebApplication1\bin\roslyn\System.Threading.Thread.dll
+C:\Users\KHONG MINH\Desktop\WebApplication1\WebApplication1\bin\roslyn\System.ValueTuple.dll
+C:\Users\KHONG MINH\Desktop\WebApplication1\WebApplication1\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\KHONG MINH\Desktop\WebApplication1\WebApplication1\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\KHONG MINH\Desktop\WebApplication1\WebApplication1\bin\roslyn\System.Xml.XPath.dll
+C:\Users\KHONG MINH\Desktop\WebApplication1\WebApplication1\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\KHONG MINH\Desktop\WebApplication1\WebApplication1\bin\roslyn\vbc.exe
+C:\Users\KHONG MINH\Desktop\WebApplication1\WebApplication1\bin\roslyn\vbc.exe.config
+C:\Users\KHONG MINH\Desktop\WebApplication1\WebApplication1\bin\roslyn\vbc.rsp
+C:\Users\KHONG MINH\Desktop\WebApplication1\WebApplication1\bin\roslyn\VBCSCompiler.exe
+C:\Users\KHONG MINH\Desktop\WebApplication1\WebApplication1\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\KHONG MINH\Desktop\WebApplication1\WebApplication1\bin\Antlr3.Runtime.dll
+C:\Users\KHONG MINH\Desktop\WebApplication1\WebApplication1\bin\EntityFramework.dll
+C:\Users\KHONG MINH\Desktop\WebApplication1\WebApplication1\bin\EntityFramework.SqlServer.dll
+C:\Users\KHONG MINH\Desktop\WebApplication1\WebApplication1\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\KHONG MINH\Desktop\WebApplication1\WebApplication1\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\KHONG MINH\Desktop\WebApplication1\WebApplication1\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\KHONG MINH\Desktop\WebApplication1\WebApplication1\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\KHONG MINH\Desktop\WebApplication1\WebApplication1\bin\Microsoft.AI.Web.dll
+C:\Users\KHONG MINH\Desktop\WebApplication1\WebApplication1\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\KHONG MINH\Desktop\WebApplication1\WebApplication1\bin\Microsoft.ApplicationInsights.dll
+C:\Users\KHONG MINH\Desktop\WebApplication1\WebApplication1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\KHONG MINH\Desktop\WebApplication1\WebApplication1\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\KHONG MINH\Desktop\WebApplication1\WebApplication1\bin\Newtonsoft.Json.dll
+C:\Users\KHONG MINH\Desktop\WebApplication1\WebApplication1\bin\PagedList.dll
+C:\Users\KHONG MINH\Desktop\WebApplication1\WebApplication1\bin\PagedList.Mvc.dll
+C:\Users\KHONG MINH\Desktop\WebApplication1\WebApplication1\bin\System.Web.Helpers.dll
+C:\Users\KHONG MINH\Desktop\WebApplication1\WebApplication1\bin\System.Web.Mvc.dll
+C:\Users\KHONG MINH\Desktop\WebApplication1\WebApplication1\bin\System.Web.Optimization.dll
+C:\Users\KHONG MINH\Desktop\WebApplication1\WebApplication1\bin\System.Web.Razor.dll
+C:\Users\KHONG MINH\Desktop\WebApplication1\WebApplication1\bin\System.Web.WebPages.Deployment.dll
+C:\Users\KHONG MINH\Desktop\WebApplication1\WebApplication1\bin\System.Web.WebPages.dll
+C:\Users\KHONG MINH\Desktop\WebApplication1\WebApplication1\bin\System.Web.WebPages.Razor.dll
+C:\Users\KHONG MINH\Desktop\WebApplication1\WebApplication1\bin\WebGrease.dll
+C:\Users\KHONG MINH\Desktop\WebApplication1\WebApplication1\bin\EntityFramework.xml
+C:\Users\KHONG MINH\Desktop\WebApplication1\WebApplication1\bin\EntityFramework.SqlServer.xml
+C:\Users\KHONG MINH\Desktop\WebApplication1\WebApplication1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\KHONG MINH\Desktop\WebApplication1\WebApplication1\bin\PagedList.xml
+C:\Users\KHONG MINH\Desktop\WebApplication1\WebApplication1\bin\PagedList.Mvc.xml
+C:\Users\KHONG MINH\Desktop\WebApplication1\WebApplication1\bin\System.Web.Helpers.xml
+C:\Users\KHONG MINH\Desktop\WebApplication1\WebApplication1\bin\System.Web.Mvc.xml
+C:\Users\KHONG MINH\Desktop\WebApplication1\WebApplication1\bin\System.Web.Optimization.xml
+C:\Users\KHONG MINH\Desktop\WebApplication1\WebApplication1\bin\System.Web.Razor.xml
+C:\Users\KHONG MINH\Desktop\WebApplication1\WebApplication1\bin\System.Web.WebPages.xml
+C:\Users\KHONG MINH\Desktop\WebApplication1\WebApplication1\bin\System.Web.WebPages.Deployment.xml
+C:\Users\KHONG MINH\Desktop\WebApplication1\WebApplication1\bin\System.Web.WebPages.Razor.xml
+C:\Users\KHONG MINH\Desktop\WebApplication1\WebApplication1\bin\Antlr3.Runtime.pdb
+C:\Users\KHONG MINH\Desktop\WebApplication1\WebApplication1\bin\Newtonsoft.Json.xml
+C:\Users\KHONG MINH\Desktop\WebApplication1\WebApplication1\bin\Microsoft.ApplicationInsights.xml
+C:\Users\KHONG MINH\Desktop\WebApplication1\WebApplication1\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\KHONG MINH\Desktop\WebApplication1\WebApplication1\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\KHONG MINH\Desktop\WebApplication1\WebApplication1\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\KHONG MINH\Desktop\WebApplication1\WebApplication1\bin\Microsoft.AI.Web.xml
+C:\Users\KHONG MINH\Desktop\WebApplication1\WebApplication1\obj\Debug\WebApplication1.csprojResolveAssemblyReference.cache
+C:\Users\KHONG MINH\Desktop\WebApplication1\WebApplication1\obj\Debug\WebApplication1.csproj.CoreCompileInputs.cache
+C:\Users\KHONG MINH\Desktop\WebApplication1\WebApplication1\obj\Debug\WebApplication1.csproj.CopyComplete
+C:\Users\KHONG MINH\Desktop\WebApplication1\WebApplication1\obj\Debug\WebApplication1.dll
+C:\Users\KHONG MINH\Desktop\WebApplication1\WebApplication1\obj\Debug\WebApplication1.pdb

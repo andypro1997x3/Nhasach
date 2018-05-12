@@ -1,0 +1,54 @@
+﻿@using WebApplication1.Models
+@using PagedList.Mvc;
+
+@model PagedList.PagedList<SACH>
+
+@{
+
+    Layout = "~/Views/Shared/_LayoutUser.cshtml";
+}
+
+ <h1> Quan Thanh Ngọc - 15DH110255 </h1>
+<div class="row">
+    @foreach (var sach in Model)
+    {
+    
+        <div class="col-sm-5 col-lg-5 col-md-5">
+            <div class="thumbnail">
+                <a href="@Url.Action("Details","BookStore",new { id = sach.Masach})">
+                    <img alt="@sach.Tensach" src="~/img/@sach.Hinhminhhoa" width="150" height="190" />
+                    <div>
+                        <br />
+                        <h4 @*style="text-align:center"*@>
+                            @sach.Tensach
+                        </h4>
+
+                    </div>
+                    <div class="ratings">
+                        <p class="pull-right"> 15 reviews </p>
+                        <p>
+                            <span class="glyphicon glyphicon-star"></span>
+                            <span class="glyphicon glyphicon-star"></span>
+                            <span class="glyphicon glyphicon-star"></span>
+                            <span class="glyphicon glyphicon-star"></span>
+                            <span class="glyphicon glyphicon-star"></span>
+                        </p>
+
+                    </div>
+                </a>
+            </div>
+        </div>
+
+
+    }
+</div>
+    <p style="color:white">Trang @(Model.PageCount < Model.PageNumber ? 0 : Model.PageNumber)/@Model.PageCount</p>
+    <div class="MenuTrang">
+        @Html.PagedListPager(Model, page => Url.Action("Index", new { page = page }))
+    </div>
+    <style>
+        .MenuTrang li {
+            display: inline;
+        }
+    </style>
+
